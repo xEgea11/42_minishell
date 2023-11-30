@@ -1,1 +1,1 @@
-A simple "bash-based" (🤓) shell
+A simple "bash-bashed" (🤓) shell
